@@ -1,5 +1,3 @@
-Here's the updated `README.md` file with the corrected installation instructions, presented in a detailed and easy-to-follow format:
-
 ### `README.md`
 
 ```markdown
